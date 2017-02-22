@@ -48,3 +48,4 @@ Xamarin.Forms.ControlGallery.Android/Properties/MapsKey.cs
 *.tss
 *.bak
 *.nuget.targets
+FormsFlexLayoutDemo/packages/
