@@ -1,10 +1,9 @@
 ﻿{
   "dependencies": {
-    "Facebook.Yoga": "1.2.0-pre1",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3",
-    "Xamarin.FlexLayout.Engine.Yoga": "1.0.0.14",
-    "Xamarin.Forms": "2.3.5.74",
-    "Xamarin.Forms.FlexLayout": "1.0.0.14-pre"
+    "Xamarin.FlexLayout.Engine.Yoga": "1.0.0-pre2",
+    "Xamarin.Forms": "2.3.4.221-pre6",
+    "Xamarin.Forms.FlexLayout": "1.0.0-pre2"
   },
   "frameworks": {
     "uap10.0": {}
